@@ -1,4 +1,4 @@
-# Striated Urchin documentation
+# Striated Urchin Documentation
 ## Overview
 
 Code is originally from [Openprocessing.](https://www.openprocessing.org/sketch/470364)
